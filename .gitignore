@@ -1,0 +1,9 @@
+.idea
+composer.lock
+*.log
+cache
+
+
+
+
+/vendor/
