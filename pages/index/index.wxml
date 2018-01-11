@@ -6,4 +6,4 @@
 <form bindsubmit="formID" report-submit="true">
     <button form-type="submit" type='primary' style="margin-bottom:20px;margin-top:30px">表单ID</button>
 </form>
-<button type="warn" bindtap="checkSession">检查登录态</button>
+<button type="warn" bindtap="checkSession">检查登录状态</button>
